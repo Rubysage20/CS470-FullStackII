@@ -11,10 +11,11 @@ This project showcases a complete full-stack application (lafs-web - Learn Angul
 
 ## Academic Context
 This repository represents the culmination of CS 470 coursework, demonstrating the practical application of cloud computing concepts, microservices architecture, and modern web development practices. The project evolved through multiple iterations, from initial setup through API development, testing, and final deployment.
-Architecture
+
+**Architecture**
 The application utilizes a modern cloud-native architecture built on AWS services. The front-end Angular application is containerized using Docker for consistent development and deployment. The back-end leverages serverless AWS Lambda functions accessible through API Gateway, with data persistence in DynamoDB and static assets served from S3.
-Component Overview
-Front-End Layer:
+### Component Overview
+**Front-End Layer:**
 
 Angular 7.2 single-page application
 Angular Material components for UI
