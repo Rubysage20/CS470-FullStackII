@@ -5,7 +5,7 @@ This project showcases a complete full-stack application (lafs-web - Learn Angul
 **Full-Stack Development**: Building responsive web applications with Angular front-end and Node.js back-end
 **Cloud Infrastructure**: Deploying and managing applications on AWS
 **Containerization**: Using Docker for consistent development and deployment environments
-**Serverless Architecture**: Implementing AWS Lambda functions and API Gateway
+**Serverless Architecture**: Implementing AWS Lambda functions and API Gateway.
 **NoSQL Database Management**: Working with Amazon DynamoDB
 **Static Asset Delivery**: Utilizing Amazon S3 for content storage and delivery
 
